@@ -1,0 +1,6 @@
+sudo-SuperUserDo-WE can use this command before each command that requires root permission
+ls(list)-With this command the terminal will show all the files and folders of the directory that we are working in
+cd(changing directory)-this will take to the name of the folder from our current directory
+mkdir-this will create new folder or subfolder
+cp copy and paste
+    cp source destination
