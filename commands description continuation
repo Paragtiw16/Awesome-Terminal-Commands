@@ -1,0 +1,5 @@
+rm(remove)-This command will remove a file or folder
+apt-get-This apt-get will help us in installing a software that we need to run in our machine
+grep-This will help to find a file based on keywords
+cat-It will show the text inside our file
+poweroff-This command will directly poweroff from the terminal
